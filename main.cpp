@@ -6,7 +6,7 @@ int main (int argc, char** argv)
 {
     int num; // how you declare your variable int
     printf(“Hello World!\n”); // Trouxemos ele do stdio.h
-    printf(“write number!\n”);
+    printf(“Write a number!\n”);
     scanf("%d",&num);
     return (0);
 }
